@@ -36,7 +36,7 @@ public void getArray(int[] arr)
 		}
 		catch(Exception e)
 		{
-			
+			System.out.println("sucess");
 		}
 		
 
